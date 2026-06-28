@@ -27,4 +27,4 @@ Run:
 python "escape room project.py"
 
 ## Author
-Trishitha
+Trishitha Girijala
